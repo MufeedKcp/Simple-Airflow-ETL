@@ -1,6 +1,5 @@
-
 *.python-version
-*.venv/
+*.venv
 *.uv.lock
 *pyproject.toml
 *main.py
