@@ -1,7 +1,0 @@
-*.python-version
-*.venv
-*.uv.lock
-*pyproject.toml
-*main.py
-*.env
-*.gitignore
