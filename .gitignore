@@ -4,4 +4,3 @@ uv.lock
 pyproject.toml
 main.py
 .env
-docker-compose.yaml
